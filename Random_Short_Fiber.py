@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # author: Jiabo Wang
 # QQ: 1457912352
-# E-mail : 1457912352@qq.com
+
 from abaqus import *
 from abaqusConstants import *
 from caeModules import *
